@@ -48,14 +48,14 @@
   
   /* header style  */
   .header{
-    background-image: url('../images/developer.png'), url('../images/header_bg.png');
+    background-image: url('images/developer.png'), url('images/header_bg.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top left, bottom right;
     margin-left: 40px;
     padding-top: 200px, 0px;
     height: 840px;
-    border: 1px solid rebeccapurple;
+    /* border: 1px solid rebeccapurple; */
   }
   
   /* nav style  */
