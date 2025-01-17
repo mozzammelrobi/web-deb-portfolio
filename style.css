@@ -55,17 +55,13 @@
     margin-left: 40px;
     padding-top: 200px, 0px;
     height: 840px;
-    /* border: 1px solid rebeccapurple; */
   }
   
   /* nav style  */
   nav{
-      /* border: 1px solid black; */
       display: flex;
       align-items: center;
       justify-content: space-between;
-      /* justify-items: center; */
-      /* margin: 0px 200px; */
       margin-left: 150px;
   }
   
@@ -93,7 +89,6 @@
     display: flex;
     justify-content: space-between;
     margin: 0px 30px 0px 150px;
-    /* border: 1px solid rebeccapurple; */
   }
   .banner-content{
     max-width: 580px;
@@ -119,8 +114,6 @@
   /* main styles */
   main{
     max-width: 1140px;
-    /* justify-content: center; */
-    /* align-items: center; */
     margin: 0 auto;
   }
   
@@ -161,7 +154,6 @@
   
   .skill{
     background-color: #FFFFFF;
-    /* width: 270px; */
     box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.09) ;
     border-radius: 5px;
     padding: 30px;
@@ -220,8 +212,6 @@
   
   .contact{
     display: flex;
-    /* margin-top: 130px; */
-  
   }
   .contact-description{
     max-width: 562px;
@@ -234,7 +224,6 @@
     display: block;
     margin-bottom: 24px;
     padding: 18px 30px;
-    /* color: #757575; */
     border: none;
     border-radius: 5px;
     width: 100%;
